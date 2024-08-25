@@ -1,6 +1,6 @@
 const About = () => {
     return (
-      <div className="ml-5 mt-10 mr-5 max-md:flex-col max-md:mb-4">
+      <div id="scroll-target" className="ml-5 mt-10 mr-5 max-md:flex-col max-md:mb-4">
         <h2 className="mr-4 text-green-600 p-2 text-3xl font-bold ">
           What is Zero Waste?
         </h2>
