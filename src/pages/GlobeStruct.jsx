@@ -49,6 +49,7 @@ const GlobeVisualization = () => {
         <div className="absolute top-10 left-10 bg-black bg-opacity-70 text-white p-4 rounded-md max-w-xs">
           <h2 className="text-lg font-semibold">{selectedCountry.name}</h2>
           <p>{selectedCountry.info}</p>
+          <p>{selectedCountry.img}</p>
           <button
             className="mt-2 text-sm text-gray-300 hover:text-white"
             onClick={() => setSelectedCountry(null)}
