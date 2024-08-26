@@ -15,7 +15,7 @@ const About = () => {
           </p>
           <ul className="list-disc pl-6">
             <li>
-              <span className="">Sometimes it takes something asy and less tense to connect with people this may seem like a simple project but what i tried was to play around and bond woth other country . It does not take a serious meeting of officials but simple fact as that mamushi the famous song of megan thee stallion is a snake species from japan and then you go in rabbit hole in japanese culture.</span> 
+              <span className="">Sometimes it takes something easy and less tense to connect with people this may seem like a simple project but what i tried was to play around and bond with other country . It does not take a serious meeting of officials but simple fact as that mamushi the famous song of megan thee stallion is a snake species from japan and then you go in rabbit hole in japanese culture.</span> 
             </li>
             <li>
               <span className="">It is a simple 3D globe where when you click on coutry it shows the native snake species of that country</span> 
