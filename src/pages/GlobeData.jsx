@@ -4,7 +4,7 @@ const GlobeData = [
     {
       code: 'CAN',
       name: 'Canada',
-      info:'A large snake with large eyes and black masks, found mostly in Ontario. The largest blue racer ever captured was 138 cm long.',
+      info:'Blue racer is a large snake with large eyes and black masks, found mostly in Ontario. The largest blue racer ever captured was 138 cm long.',
       img:<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2JIDExQft1AADfqVHCD-fvKRTqrzjG_tDwj_MULBhTw2NxjyM"/>
     },
     {
