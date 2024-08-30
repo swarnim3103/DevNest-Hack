@@ -107,12 +107,12 @@ const GlobeData = [
         code:'IND',
         name: 'India',
         info: 'The Indian python is a large python species native to tropical and subtropical regions of the Indian subcontinent and Southeast Asia. It is also known by the common names black-tailed python, Indian rock python, and Asian rock python.',
-        img: <img src=""/>
+        img: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Pratik_jain_dahod_python.JPG/640px-Pratik_jain_dahod_python.JPG"/>
       },
       {
         code:'ISL',
         name: 'Iceland',
-        info: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Pratik_jain_dahod_python.JPG/640px-Pratik_jain_dahod_python.JPG',
+        info: '',
         img: <img src=""/>
       },
       {
